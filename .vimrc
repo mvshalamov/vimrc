@@ -64,3 +64,5 @@ function s:setupMarkup()
   call s:setupWrapping()
   map <buffer> <Leader>p :Mm <CR>
 endfunction
+set lines=80 columns=120
+
